@@ -1,1 +1,1 @@
-# Heart-disease-Prediction
+# Heart-disease-Prediction: This project aims to predict the likelihood of heart disease in patients using machine learning techniques. The objective is to build and evaluate classification models that can assist healthcare professionals in identifying high-risk individuals.
